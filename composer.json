@@ -1,0 +1,17 @@
+{
+    "name": "mandaric/blog",
+    "description": "Blog",
+    "require": {
+        "dispatch/dispatch": "~6.1.2",
+        "pimple/pimple": "~3.0.0",
+        "catfan/medoo": "~0.9.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mandaric",
+            "email": "mladen.mandaric@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
